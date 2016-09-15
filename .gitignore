@@ -1,0 +1,8 @@
+.idea
+node_modules
+/lib
+dist
+manifest.txt
+variable_map.txt
+property_map.txt
+dependencies.json
